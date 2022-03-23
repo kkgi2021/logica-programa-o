@@ -19,7 +19,15 @@
 
 ## Skills
 ##
-<div><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>   | https:www.treinaweb.com.br/certificado/ZZTCXO3EWONV4
+<div><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>   |         
+
+  https:www.treinaweb.com.br/certificado/ZTCXO3EWONV4
+
+  https:www.treinaweb.com.br/certificado/ZTCXO3EWONV4
+
+  https:www.treinaweb.com.br/certificado/ZTCXO3EWONV4
+
+  https:www.treinaweb.com.br/certificado/ZTCXO3EWONV4
 </div>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> | `https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white`
 <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /> | `https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white`
