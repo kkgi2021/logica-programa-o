@@ -9,3 +9,9 @@
 <a href="mailto:cacagimenis@gmail.com" alt="gmail" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com" />
 </a>
+<a href="https://wa.me/+55 91991536740>" alt="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/<SEUNUMERO>"/>
+</a>
+<a href="https://www.linkedin.com/in/<SEUNOMEDECONTATO>" alt="linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
