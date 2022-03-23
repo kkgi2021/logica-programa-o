@@ -112,4 +112,4 @@ puts(" #{alunos[0]} tirou a nota #{notas[0]}, #{alunos[1]} tirou a nota #{notas[
 notas[1]=9
 alunos << 'Paulo'
 notas << 7.5
-puts("#{alunos[0]} obteve a nota, #{notas[0]} #{alunos[1]} obteve a nota #{notas[1]} #{alunos[2]} obteve a nota #{notas[2]} #{alunos[3]} obteve a nota #{notas[3]}")
+puts("#{alunos[0]} obteve a nota, #{notas[0]} #{alunos[1]} obteve a nota #{notas[1]} #{alunos[2]} obteve a nota #{notas[2]} #{alunos[3]} obteve a nota #{notas[3]}") #    ss
